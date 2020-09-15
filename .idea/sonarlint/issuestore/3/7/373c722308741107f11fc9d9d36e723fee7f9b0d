@@ -1,0 +1,23 @@
+
+Nsquid:S00108€")Either remove or fill this block of code.(ªâŞ¿üÿÿÿÿ8³õ‰¯â-
+qsquid:S2095±"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8³õ‰¯â-
+Isquid:S00108‚")Either remove or fill this block of code.(ßá®8²Š¯â-
+isquid:S00116"RRename this field "cipher_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ò³D
+Hsquid:S00108z")Either remove or fill this block of code.(¤·¿Ã8…³‰¯â-
+Nsquid:S00108•")Either remove or fill this block of code.(­Ñˆ®ûÿÿÿÿ8µúŞ®â-
+Nsquid:S00108’")Either remove or fill this block of code.(ªâŞ¿üÿÿÿÿ8³õ‰¯â-
+isquid:S2674³"JCheck the return value of the "read" call to see how many bytes were read.(µÄŸª8³õ‰¯â-
+tsquid:S00116"WRename this field "CAESAR_SHIFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­´ô·ÿÿÿÿÿ
+Nsquid:S00108ƒ")Either remove or fill this block of code.(­Ñˆ®ûÿÿÿÿ8²Š¯â-
+Isquid:S00108‹")Either remove or fill this block of code.(¤·¿Ã8³õ‰¯â-
+Isquid:S00108")Either remove or fill this block of code.(Ãôş•8³õ‰¯â-
+msquid:S2095¢"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¶«…8³õ‰¯â-
+^squid:S00112_"FDefine and throw a dedicated exception instead of using a generic one.(²œÕè
+8squid:S1643O"Use a StringBuilder instead.(®Ô©øÿÿÿÿ
+csquid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(”§´ƒøÿÿÿÿ
+Isquid:S00108”")Either remove or fill this block of code.(ßá®8µúŞ®â-
+Isquid:S00108“")Either remove or fill this block of code.(Ãôş•8µúŞ®â-
+Msquid:S00108{")Either remove or fill this block of code.(¾šİüÿÿÿÿ8Ç›‰¯â-
+Nsquid:S00108Œ")Either remove or fill this block of code.(¾šİüÿÿÿÿ8Ü«Ş®â-
+Nsquid:S00108¥")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8³õ‰¯â-
+=squid:S1170"!Make this final field static too.(­´ô·ÿÿÿÿÿ

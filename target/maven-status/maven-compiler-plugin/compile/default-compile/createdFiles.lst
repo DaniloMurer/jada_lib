@@ -1,0 +1,5 @@
+com\danilojakob\util\security\KeyGenerator.class
+com\danilojakob\util\file\PropertyFileHelper.class
+com\danilojakob\util\security\Hasher.class
+com\danilojakob\util\file\FileHelper.class
+com\danilojakob\util\security\EncryptionHelper.class
