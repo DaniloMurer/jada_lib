@@ -15,8 +15,8 @@
 
     <distributionManagement>
         <repository>
-            <id>github.repo</id>
-            <name>Github Packages</name>
+            <id>github</id>
+            <name>GitHub DaniloMurer Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/DaniloMurer/jada_lib</url>
         </repository>
     </distributionManagement>
