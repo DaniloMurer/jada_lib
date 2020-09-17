@@ -1,15 +1,0 @@
-
-_squid:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(§ËË´
-rsquid:S20956"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8•ş«¬â-
-ssquid:S2095I"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8òÅÅ¬â-
-[
-squid:S106N"9Replace this use of System.out or System.err by a logger.(æ‚ãÓüÿÿÿÿ8å‡Ç¬â-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
-[
-squid:S106;"9Replace this use of System.out or System.err by a logger.(ïÏ¢·úÿÿÿÿ8éù²¬â-
-psquid:S20955"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8•ş«¬â-
-_squid:S2095#"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ı¸’
-lsquid:S2095H"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯8òÅÅ¬â-
-T
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ

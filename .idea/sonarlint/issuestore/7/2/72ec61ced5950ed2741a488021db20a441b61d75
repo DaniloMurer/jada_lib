@@ -1,10 +1,0 @@
-
-psquid:S00116"SRename this field "homedir_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§ϋÿÿÿÿÿ
-esquid:S1192"IDefine a constant instead of duplicating this literal "\\conf\\" 3 times.(™”·Òώÿÿÿÿ
-ksquid:S1450"TRemove the "file_" field and declare it as a local variable in the relevant methods.(χρ‚
-hsquid:S00116"PRename this field "file_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χρ‚
-T
-squid:S1066"9Replace this use of System.out or System.err by a logger.(°£Φ‹όÿÿÿÿ
-T
-squid:S106%"9Replace this use of System.out or System.err by a logger.(°£Φ‹όÿÿÿÿ
-hsquid:S1192"LDefine a constant instead of duplicating this literal ".properties" 3 times.(™”·Òώÿÿÿÿ
